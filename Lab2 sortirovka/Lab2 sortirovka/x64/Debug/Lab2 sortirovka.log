@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Никитыч\my_projects\Lab2 sortirovka\Lab2 sortirovka\Source.cpp(31,17): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Никитыч\my_projects\Lab2 sortirovka\Lab2 sortirovka\Source.cpp(63,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Lab2 sortirovka.vcxproj -> C:\Users\Никитыч\my_projects\Lab2 sortirovka\x64\Debug\Lab2 sortirovka.exe
